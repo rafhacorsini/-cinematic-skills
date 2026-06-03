@@ -5,8 +5,8 @@ Skills para transformar sites genéricos feitos por IA em **experiências cinema
 ## Instalação (Claude Code)
 
 ```bash
-/plugin marketplace add SEU-USUARIO/cinematic-skills
-/plugin install direction
+/plugin marketplace add rafhacorsini/cinematic-skills
+/plugin install direction@cinematic-skills
 ```
 
 ## Skills

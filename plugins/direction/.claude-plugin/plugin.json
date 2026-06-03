@@ -1,10 +1,16 @@
-{
-  "name": "direction",
-  "description": "Direção de arte cinematográfica inicial e interativa. Roda ANTES de construir o site: conduz por vibe, pareamento de fontes, arquitetura de seções, mood de paleta e intensidade de movimento, e gera um DIRECTION.md que orienta toda a construção. Tira a página da cara de template antes da primeira linha de código.",
-  "version": "0.1.0",
-  "author": {
-    "name": "Rafhael Corsini",
-    "email": "rafhaelcorsini@gmail.com"
-  },
-  "keywords": ["design", "art-direction", "cinematic", "frontend", "animation"]
+﻿{
+    "name":  "direction",
+    "description":  "DireÃ§Ã£o de arte cinematogrÃ¡fica inicial e interativa. Roda ANTES de construir o site: conduz por vibe, pareamento de fontes, arquitetura de seÃ§Ãµes, mood de paleta e intensidade de movimento, e gera um DIRECTION.md que orienta toda a construÃ§Ã£o. Tira a pÃ¡gina da cara de template antes da primeira linha de cÃ³digo.",
+    "version":  "0.1.1",
+    "author":  {
+                   "name":  "Rafhael Corsini",
+                   "email":  "rafhaelcorsini@gmail.com"
+               },
+    "keywords":  [
+                     "design",
+                     "art-direction",
+                     "cinematic",
+                     "frontend",
+                     "animation"
+                 ]
 }
